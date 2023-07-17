@@ -3,6 +3,9 @@
 @tailwind utilities;
 
 @layer base {
+  html {
+    @apply scroll-smooth scrollbar-hide;
+  }
   body {
     @apply font-primary text-paragraph;
   }

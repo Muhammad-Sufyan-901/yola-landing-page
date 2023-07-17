@@ -1,0 +1,12 @@
+export { default as Cards } from "./Cards";
+export { default as Contact } from "./Contact";
+export { default as Courses } from "./Courses";
+export { default as Facts } from "./Facts";
+export { default as Features } from "./Features";
+export { default as Footer } from "./Footer";
+export { default as Header } from "./Header";
+export { default as Hero } from "./Hero";
+export { default as Nav } from "./Nav";
+export { default as NavMobile } from "./NavMobile";
+export { default as Newsletter } from "./Newsletter";
+export { default as Pricing } from "./Pricing";
